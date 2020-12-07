@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "aYzYv92AibEeAmAPngug18equWY",
+  "prevPageToken": "CDIQAQ",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 80,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "biq8w4j3rDM86Joz-36lYBGqD8A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FTpXwwBirVI"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-10T05:33:27Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Saigon Express Blessing",
+        "description": "Blessing the Saigon Express space for the Lunar New Years season! Thank you to the warm and welcoming staff! Drum/Cymbals: Huy/Patrick & Steven ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTpXwwBirVI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTpXwwBirVI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTpXwwBirVI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-10T05:33:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TKrifkini1Am1EoMTjl6M8GbV0c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ASZxgE6H02Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-12T07:56:58Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Duo Drumming - Patrick &amp; Tiffany",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASZxgE6H02Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASZxgE6H02Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASZxgE6H02Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-12T07:56:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XbzBY8H43WAr6k7icrlJxjHbRFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K5p4ZoSE3g0"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-12T07:53:35Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Ha Bros. Fooling Around",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K5p4ZoSE3g0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K5p4ZoSE3g0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K5p4ZoSE3g0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-12T07:53:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fvW0xtscAjJKClvrpRwSd9yOv3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uha6m1twuhU"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T08:51:41Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through 2 (3/18/16)",
+        "description": "Left to right (head/tail): Unique/Patrick, Andy/Wendy, Nancy, Brian/Alexis Drum: Ben.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uha6m1twuhU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uha6m1twuhU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uha6m1twuhU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T08:51:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u91-AUz5xob9DEGdokgHF3YilA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FUtMhFvYmH8"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T04:35:36Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Blessing - Big Mikey Style!",
+        "description": "Bringing one of lions down to SoCal to bless the house of one of our members! Starts around 1:15.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FUtMhFvYmH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FUtMhFvYmH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FUtMhFvYmH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T04:35:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xXUnEs0l1bT4h96h6eX8fao6P84",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RT6rCUeO9cI"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T08:51:25Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through (3/18/16)",
+        "description": "Left to right (head/tail): Alexis, Ben, Huy/Steven, Wendy Drum: Andy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RT6rCUeO9cI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RT6rCUeO9cI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RT6rCUeO9cI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T08:51:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bfjRuNGkTW16-0y7wM8dPH4Ase0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8bnSiY-Z4E"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-12T09:12:50Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "SASC 15 Year Performance Pt. 1",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8bnSiY-Z4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8bnSiY-Z4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8bnSiY-Z4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-12T09:12:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nnMrgsmaqXB-_IF6z6_XMMbXlKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cQ335QpsKdg"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T18:26:31Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - Oakland AIM School (2018)",
+        "description": "Thank you to American International Montessori School for inviting us to perform for the second year in a row!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cQ335QpsKdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cQ335QpsKdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cQ335QpsKdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T18:26:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0W1FywGjam68RqwD5AEz96yPacE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QZDlcs6RSPU"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-11T05:45:32Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Stanford Routine - Runthrough 1",
+        "description": "Purple: Michael/Unique Black: Patrick/none Blue: Alexis/Wendy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZDlcs6RSPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZDlcs6RSPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZDlcs6RSPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-11T05:45:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tJKhGsduIHDOKI6im-DJtoxoYVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DKflemB0UPA"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T18:48:44Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - APATH Lantern Festival (Fall 2017)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DKflemB0UPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DKflemB0UPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKflemB0UPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T18:48:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UgcEGqcQpibuBUYdPoEda2PFJsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-qhyR_-L__c"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-12T09:12:50Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "SASC 15 Year Performance Pt. 2",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-qhyR_-L__c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-qhyR_-L__c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-qhyR_-L__c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-12T09:12:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z7Wb67uYMib3uF9qPUFcgr-xXzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TJcgOrCaVwM"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-25T07:16:05Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - EAU Night Market [2018]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJcgOrCaVwM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJcgOrCaVwM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJcgOrCaVwM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-25T07:16:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OeuWQHryRG6HpdVYOxUM1_JXc0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1sWM_f_4u-c"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-07T05:52:06Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - Concert For A Cause 2016",
+        "description": "Our first performance with our NEW drum, purchased from Clarion Music in San Francisco, CA!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1sWM_f_4u-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1sWM_f_4u-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1sWM_f_4u-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-07T05:52:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9LfnPz0Imj3dD3aneEgRCPpKSnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZJghvHA0pLc"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T11:56:24Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through 3 (4/15/16)",
+        "description": "Left to right: Ben, Nancy/Unique, Brian.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZJghvHA0pLc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZJghvHA0pLc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZJghvHA0pLc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T11:56:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yV9-0_le9fZAc0crNJEPUJp1gTk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vTReNiDkGOY"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-10T05:25:13Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Heat Cafe Blessing",
+        "description": "Blessings the Heat Cafe space during the Lunar New Years seasons! Thank you to the Heat Cafe staff for their hospitality! Cymbal/Drum/Cymbal: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vTReNiDkGOY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vTReNiDkGOY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTReNiDkGOY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-10T05:25:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sxIkoxJ-VIb33n4Ectr4zzHKXhw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nm4b-2xvSQA"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-10T09:00:54Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Stanford Routine - Huy &amp; Andy",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nm4b-2xvSQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nm4b-2xvSQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nm4b-2xvSQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-10T09:00:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TFZ_EDSbkhIEwNP3966g-I8tfOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O-_XEX3ULsg"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-05T11:10:55Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "World Food Fair Performance - Lion (stacks)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O-_XEX3ULsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O-_XEX3ULsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O-_XEX3ULsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-05T11:10:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-M1UBGtTxUHf5N78ZELqHZsK86M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NHTuyTlSmls"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T12:21:37Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through 2 (4/15/16)",
+        "description": "Left to right: Unique/Brian, Steven, Wendy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHTuyTlSmls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHTuyTlSmls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHTuyTlSmls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T12:21:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yPUMFTLM_S8SfSSBXLQLE4s3yVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BghXH32CxrM"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-05T09:58:00Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "World Food Fair Performance - Dragon",
+        "description": "Dragon enters @ 0:18.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BghXH32CxrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BghXH32CxrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BghXH32CxrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-05T09:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZbqX8gZZnb4ilpLAxbx9LGeZ0i4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qb-9F6cG3tU"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-28T18:51:38Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - 4/22 Modern Run-through 1",
+        "description": "Left to right: Wendy/Unique, Huy, Andy, Patrick.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qb-9F6cG3tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qb-9F6cG3tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qb-9F6cG3tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-28T18:51:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LRhKMDyPHLuBagryEfVl3-oPrVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o-6KAzMsCzw"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-08T13:32:30Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through 1",
+        "description": "Red: Huy; Purple: Patrick; Blue: Alexis; Black: Andy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-6KAzMsCzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-6KAzMsCzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-6KAzMsCzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-08T13:32:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gcC93NeOb2dZXpOOPjyumFWYBHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F8h7VFKpwyY"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-11T06:00:49Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Stanford Routine - Runthrough 2",
+        "description": "Purple: Michael/Unique Black: Patrick/Wendy Blue: Alexis/?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F8h7VFKpwyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F8h7VFKpwyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F8h7VFKpwyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-11T06:00:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4P5zBJX_2dDeSiDUemeCR5lxlRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5-S-cIx_Blo"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-08T13:38:23Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice - Modern Run-through 2",
+        "description": "Black: Unique; Purple: Wendy; Blue: Benjamin; Black: Michael.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5-S-cIx_Blo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5-S-cIx_Blo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5-S-cIx_Blo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-08T13:38:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5eIfQgprFmLzKfbDaTERaxl-XBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rkGMj2kJ8Sc"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-22T09:59:25Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Practice 11/21/15 (Nancy, Unique, Michael)",
+        "description": "Modern run-through.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rkGMj2kJ8Sc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rkGMj2kJ8Sc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rkGMj2kJ8Sc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-22T09:59:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k1WHQu2OA1RUGqWt7qNZGs7eGXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n78INH5SdkI"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-28T03:43:17Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Modern Style Practice 2/28 (Ben, Steven, Andy)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n78INH5SdkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n78INH5SdkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n78INH5SdkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-28T03:43:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PZ9umOurVTaziFiZRFc9SgNaorA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v2cz6ryO3Hc"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-07T07:16:20Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Half-time Performance - Cal Women&#39;s Basketball Game VS Stanford! [Stationary]",
+        "description": "One of the biggest performances we've ever had, performing during half-time at an official Cal Athletics game!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v2cz6ryO3Hc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v2cz6ryO3Hc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v2cz6ryO3Hc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-07T07:16:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RBVkXGg-K0tBNhduKk_99BWFSL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "opG_Vrw-wVs"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-05T11:39:47Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Cal VSA Culture Show 2016 - Lion Dance Teaser",
+        "description": "Interested in seeing more?! Then come to our big Culture Show, on April 9th at 2pm in UC Berkeley's Zellerbach Hall! Contact us at lion.dance@calvsa.com for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/opG_Vrw-wVs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/opG_Vrw-wVs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/opG_Vrw-wVs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-05T11:39:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iMfDM4t6fMLQM2zRrU9WfnEv8BY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ula13w3Epr0"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-14T08:31:29Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - St. Anthony Church",
+        "description": "We are glad to have been able to come out to St. Anthony's for the second year in a row for their Tet event!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ula13w3Epr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ula13w3Epr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ula13w3Epr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-14T08:31:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dtuCgSdlmEhv0i7K5z-B0BAcGdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4JnfMXzVekQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-30T22:36:41Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Performance - Times Higher Summit",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4JnfMXzVekQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4JnfMXzVekQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4JnfMXzVekQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-30T22:36:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qVIc0T2w0ye2Bkg_awuYFJhV5l8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "046WTVmXP1U"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-31T07:00:35Z",
+        "channelId": "UCcP2FtV5l2zLsDFhmlrZoog",
+        "title": "Eastwind Books LNY 2018",
+        "description": "To kick off 2018, Eastwind Books (Berkeley) invited us to open for their book hosting \"Different Pond\", by Bao Phi and Thi Bui. We were honored to be able to be ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/046WTVmXP1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/046WTVmXP1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/046WTVmXP1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cal VSA Lion Dance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-31T07:00:35Z"
+      }
+    }
+  ]
+}
