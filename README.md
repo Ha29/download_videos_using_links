@@ -21,6 +21,8 @@ USAGE
 
 You need a videos/ directory in order to properly download the videos. 
 
+Due to memory limitations for the cloud server used to originally use this script, the script downloads only 6 videos at a time. The exclude.txt file is used to exclude video titles that have already been downloaded. Each line is the name of the file that is already downloaded. The code will skip downloading these videos. 
+
 ###
 SERVER DOWNLOADING
 ###

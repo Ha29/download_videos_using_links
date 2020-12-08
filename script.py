@@ -26,6 +26,9 @@ def in_excluded_list(title):
   return False
 
 def download_videos():
+  """
+  Put videos*.json into a input folder so its more reusable. 
+  """
   videos = []
   videos += load_video_data("videos1.json") + load_video_data("videos2.json")
   vids_downloaded = 1
