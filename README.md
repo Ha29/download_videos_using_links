@@ -18,3 +18,11 @@ USAGE
 ###
 
 You need a videos/ directory in order to properly download the videos. 
+
+###
+SERVER DOWNLOADING
+###
+
+Example:
+scp video-server:'download_videos_using_links/*.{mkv,mp4}' .
+video-server is the alias and all .mkv and .mp4 extensions are being downloaded to the current directory
