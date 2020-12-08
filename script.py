@@ -23,7 +23,7 @@ def get_excluded_videos():
   return set([line.strip() for line in excluded_list.readlines()])
 
 def check_excluded_list(excluded_vids, title):
-  if title + ".mkv" in excluded_vids or title + ".mp4" in excluded_vids:
+  if title + ".mkv" in excluded_vids or title + ".mp4" in excluded_vids or title + ".webm" in excluded_vids:
     return True
   return False
 
