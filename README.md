@@ -10,8 +10,10 @@ The exclude.txt file was later added due to space limitations on the cloud serve
 ###
 INSTALLATION
 ###
-
-pip3 install termcolor
+Need to install termcolor:
+	pip3 install termcolor
+Need to install youtube-dl to wherever you are downloading:
+	youtube-dl
 
 ###
 USAGE
