@@ -10,6 +10,8 @@ The exclude.txt file was later added due to space limitations on the cloud serve
 ###
 INSTALLATION
 ###
+Need to install: 
+	python3.8
 Need to install termcolor:
 	pip3 install termcolor
 Need to install youtube-dl to wherever you are downloading:
@@ -18,6 +20,13 @@ Need to install youtube-dl to wherever you are downloading:
 ###
 USAGE
 ###
+
+Use data from Youtube Data API v3. Put Youtube Data API search video data into the yt_api_data/ folder. There are two files in that folder that was used for this script originally. Can work with other Youtube Data API seach results.
+	https://developers.google.com/youtube/v3/docs/search/list
+	StackOverflow Example:
+		https://stackoverflow.com/questions/18953499/youtube-api-to-fetch-all-videos-on-a-channel
+
+	To use your own data, call the api and create a json file with the video data inside. 
 
 You need a videos/ directory in order to properly download the videos. 
 
