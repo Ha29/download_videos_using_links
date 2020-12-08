@@ -18,10 +18,12 @@ def load_video_data(fpath):
     videos += append_videos(d1)
   return videos
 
-def in_excluded_list(title):
+def get_excluded_videos():
   excluded_list = open('exclude.txt', 'r')
-  vids = [line.strip() for line in excluded_list.readlines()]
-  if title + ".mkv" in vids or title + ".mp4" in vids:
+  return set([line.strip() for line in excluded_list.readlines()])
+
+def check_excluded_list(excluded_vids, title):
+  if title + ".mkv" in excluded_vids or title + ".mp4" in excluded_vids:
     return True
   return False
 
@@ -32,6 +34,7 @@ def download_videos():
   videos = []
   videos += load_video_data("videos1.json") + load_video_data("videos2.json")
   vids_downloaded = 1
+  excluded_vids = get_excluded_videos()
   for video_id, title in videos:
     if vids_downloaded > 6:
         break
@@ -39,7 +42,7 @@ def download_videos():
     mkv_path = "videos/" + title + ".mkv"
     mp4_path = "videos/" + title + ".mp4"
     download_fpath = "videos/" + title
-    if not in_excluded_list(title) and not os.path.isfile(mkv_path) and not os.path.isfile(mp4_path):
+    if not check_excluded_list(excluded_vids, title) and not os.path.isfile(mkv_path) and not os.path.isfile(mp4_path):
       print(colored(str(vids_downloaded) + ": ", "yellow") + colored(video_id + " downloading: " + download_fpath, "green"))
       command_prefix = "youtube-dl -o " + download_fpath
       if video_id[0] == '-': 
