@@ -69,10 +69,10 @@ def download_videos(download_limit=6):
     if not check_excluded_list(excluded_vids, title) and not os.path.isfile(mkv_path) and not os.path.isfile(mp4_path):
       print(colored(str(vids_downloaded + 1) + ": ", "yellow") + colored(video_id + " downloading: " + download_fpath, "green"))
       command_prefix = "youtube-dl -o " + download_fpath
-      # if video_id[0] == '-': 
-      #   os.system(command_prefix + " -- " + video_id)
-      # else:
-      #   os.system(command_prefix + " " + video_id)
+      if video_id[0] == '-': 
+        os.system(command_prefix + " -- " + video_id)
+      else:
+        os.system(command_prefix + " " + video_id)
       vids_downloaded += 1
     else:
       print(colored("skipping download: " + title + "with youtube_id: " + video_id, "yellow"))
