@@ -78,6 +78,10 @@ def download_videos(download_limit=6):
       print(colored("skipping download: " + title + "with youtube_id: " + video_id, "yellow"))
 
 def helper_text():
+  """
+  Displays when the user puts too many arguments or uses
+  an invalid argument.
+  """
   print(colored("This program accepts 0-1 arguments, if 0 arguments are provided, then 6 videos will be downloaded. If 1 argument is provided, its value can be numeric, or the string all. Below there are 3 examples where the first downloads all, the second downloads 2, the third downloads 6", "yellow"))
   print(colored("    Example: python3 script.py all"))
   print(colored("    Example: python3 script.py 2"))
