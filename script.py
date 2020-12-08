@@ -38,7 +38,6 @@ def download_videos():
     download_fpath = "videos/" + title
     if not in_excluded_list(title) and not os.path.isfile(mkv_path) and not os.path.isfile(mp4_path):
       print(colored(video_id + " downloading: " + download_fpath, "green"))
-      print(colored("youtube-dl -o " + download_fpath + " " + video_id, "green"))
       # os.system("youtube-dl -o " + download_fpath + " " + video_id)
       vids_downloaded += 1
     else:

@@ -12,3 +12,9 @@ INSTALLATION
 ###
 
 pip3 install termcolor
+
+###
+USAGE
+###
+
+You need a videos/ directory in order to properly download the videos. 
