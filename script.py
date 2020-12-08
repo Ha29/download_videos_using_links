@@ -28,16 +28,16 @@ def in_excluded_list(title):
 def download_videos():
   videos = []
   videos += load_video_data("videos1.json") + load_video_data("videos2.json")
-  vids_downloaded = 0
+  vids_downloaded = 1
   for video_id, title in videos:
-    if vids_downloaded > 5:
+    if vids_downloaded > 6:
         break
     title = title.replace(' ', '_')
     mkv_path = "videos/" + title + ".mkv"
     mp4_path = "videos/" + title + ".mp4"
     download_fpath = "videos/" + title
     if not in_excluded_list(title) and not os.path.isfile(mkv_path) and not os.path.isfile(mp4_path):
-      print(colored(video_id + " downloading: " + download_fpath, "green"))
+      print(colored(vids_downloaded + ": ", "yellow") + colored(video_id + " downloading: " + download_fpath, "green"))
       command_prefix = "youtube-dl -o " + download_fpath
       if video_id[0] == '-': 
         os.system(command_prefix + " -- " + video_id)
