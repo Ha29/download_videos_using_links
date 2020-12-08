@@ -32,7 +32,8 @@ def download_videos():
   Put videos*.json into a input folder so its more reusable. 
   """
   videos = []
-  videos += load_video_data("videos1.json") + load_video_data("videos2.json")
+  for fname in os.listdir('yt_api_data'):
+    videos += load_video_data(fname)
   vids_downloaded = 1
   excluded_vids = get_excluded_videos()
   for video_id, title in videos:
